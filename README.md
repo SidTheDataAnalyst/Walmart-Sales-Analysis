@@ -15,3 +15,6 @@ Walmart Sales data [Dataset](WalmartSalesData.csv.csv)
 - SQL Server for Data Analysis
 
 ### Data Analysis
+---
+
+The goal is to provide actionable insights to enhance sales strategies and optimize business operations for Walmart
