@@ -8,7 +8,7 @@ The Walmart sales analysis project aims to gain insights into the company's sale
 
 ### Data Source
 ---
-Walmart Sales data [Dataset]( 
+Walmart Sales data [Dataset](WalmartSalesData.csv.csv)
 
 ### Tools Used
 ---
